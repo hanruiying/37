@@ -1,0 +1,336 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimal-ui" />
+ <meta name="apple-mobile-web-app-capable" content="yes" />
+ <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+ <meta name="format-detection"content="telephone=no, email=no" />
+	<title>猛男 陪你 看电影 hh</title>
+ <link rel="stylesheet" type="text/css" href="css/index.css">
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?b8a933b2f4c425033080f69a6199dd8b";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+<body >
+
+<!-- <img src="img/bodybg.jpg" class="bodybg"> -->
+<div class="p1 page dp-b">
+	
+	<img src="img/p1_top.png" class="w100p">
+	<img src="img/p1_bar.png" alt="" class="p1-bar w100p">
+
+	<div class="girlTypes-wrap dp-ib-wrap">
+		<div class="girlType  dp-ib" data-group='1'>
+			<img src="img/p_mengmeizi.png" class="w100p girlType-portrait">
+			<p class="w100p girlType-hint">萌妹子</p>
+		</div>
+		<div class="girlType dp-ib"  data-group='2'>
+			<img src="img/p_nvshen.png" class="w100p girlType-portrait">
+			<p class="w100p girlType-hint">女神</p>
+
+		</div>
+		<div class="girlType dp-ib" data-group='3'>
+			<img src="img/p_nvhanzi.png" class="w100p girlType-portrait">
+			<p class="w100p girlType-hint">女汉子</p>
+
+		</div>
+	</div>
+
+	<div class="girlTypes-wrap2 dp-ib-wrap">
+		<div class="girlType  dp-ib"  data-group='4'>
+			<img src="img/p_nvdiaosi.png" class="w100p girlType-portrait">
+			<p class="w100p girlType-hint">女diao丝</p>
+
+		</div>
+		<div class="girlType dp-ib"  data-group='5'>
+			<img src="img/p_cunyemen.png" class="w100p girlType-portrait">
+			<p class="w100p girlType-hint">纯爷们</p>
+
+		</div>
+	</div>
+</div>
+
+<div class="page p2 dp-n">
+	<img src="img/p2_top.png" class="w100p">
+	<img src="img/p2_bar.png" alt="" class="w100p p2-bar">
+
+	<div class="cards-wrap  clearfix center ">
+
+		<div class=" mancard f-l "  data-man-index='1'>
+			<div class="card-front">
+				<img src="img/p2_card.png" class="w100p">
+				<div class=" dp-t mancard-hint">
+					<div class="dp-tc">小主<br>翻我牌</div>
+				</div>
+				<img src="img/p2_heart.png" alt="" class="card-heart dp-n">
+			</div>
+			<div class="card-back dp-b">
+				<img src="" class="w100p">
+			</div>
+		</div>
+		<div class="mancard f-l" data-man-index='2'>
+			<div class="card-front">
+				<img src="img/p2_card.png" class="w100p">
+				<div class="mancard-hint dp-t">
+					<div class="dp-tc">爱生活<br>爱小主</div>
+				</div>
+			</div>
+			<div class="card-back dp-b">
+				<img src="" class="w100p">
+			</div>
+		</div>
+	</div>
+	<div class="cards-wrap2 clearfix  center ">
+		<div class="mancard f-l dp-t" data-man-index='3'>
+			<div class="card-front">
+				<img src="img/p2_card.png" class="w100p">
+				<div class="mancard-hint dp-t">
+					<div class="dp-tc">小主<br>么么哒</div>
+				</div>
+			</div>
+			<div class="card-back dp-b">
+				<img src="" class="w100p">
+			</div>
+		</div>
+		<div class="mancard f-l" data-man-index='4'>
+		<div class="card-front">
+			<img src="img/p2_card.png" class="w100p">
+			<div class=" dp-t mancard-hint">
+				<div class="dp-tc">小主<br>奴婢能</div>
+			</div>
+			</div>
+			<div class="card-back dp-b">
+				<img src="" class="w100p">
+			</div>
+		</div>
+		<div class="mancard f-l" data-man-index='5'>
+		<div class="card-front">
+			<img src="img/p2_card.png" class="w100p">
+			<div class="mancard-hint dp-t">
+				<div class="dp-tc">小主<br>求爱心</div>
+			</div>
+			</div>
+			<div class="card-back dp-b">
+				<img src="" class="w100p">
+			</div>
+		</div>
+	</div>
+	<div class="cards-wrap clearfix  center ">
+		<div class="mancard f-l" data-man-index='6'>
+		<div class="card-front">
+			<img src="img/p2_card.png" class="w100p">
+			<div class="mancard-hint dp-t ">
+				<div class="dp-tc">小主<br/>求戳</div>
+			</div>
+			</div>
+			<div class="card-back dp-b">
+				<img src="" class="w100p">
+			</div>
+		</div>
+		<div class="mancard f-l" data-man-index='7'>
+		<div class="card-front">
+			<img src="img/p2_card.png" class="w100p">
+			<div class="mancard-hint dp-t ">
+				<div class="dp-tc">小主<br>DUANG <br>一下</div>
+			</div>
+			</div>
+			<div class="card-back dp-b">
+				<img src="" class="w100p">
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="page p3 dp-n">
+	<img src="img/p3_top.png" class="w100p">
+	<div class="man-img-holder w100p">
+		<img src="img/p3_man_img.jpg" class="w50p center man-img">
+		<div class="retry ">
+			<img src="img/sign_refresh.png" alt="" class="retry-sign">
+			<p class="">哀家要<br>换一个</p>
+		</div>
+	</div>
+	<img src="img/p3_bar.png" alt="" class="p3-bar w100p">
+
+	<div class="btns-wrap  w80p center">
+		<a href="http://m.dianying.baidu.com/activity/37girlSelect?sfrom=newnuomi&from=webapp&sub_channel=pr_sns_weixin2">
+			<img src="img/P3_btn_ticket.png" class="w100p p3-btn-ticket">
+			</a>
+		<img src="img/p3_btn_share.png" class="w100p  p3-btn-share">
+		<p class="">分享还可能得神秘礼物哦！嘘，你懂的...</p>
+	</div>
+
+</div>
+
+<div class="popup-share popup dp-n">
+	<img src="img/wxshare.png" alt="" class='w100p'>
+</div>
+<div class="popup-pic popup dp-n">
+	<img src="" alt="" class='w100p'>
+</div>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/man_group.js"></script>
+<script src="js/man_data.js"></script>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script src="wxshare/wxshare.js"></script>
+<script src="js/landscape.js"></script>
+
+
+
+<script>
+$(function(){
+	console.log('test，rongjiaqi');
+	setbg();
+	swithPage();
+	setCard();
+	switchPopup();
+	jumpHeart();
+	// checkWeixin();
+});
+var timer;
+var match = [[],[],[],[],[]];
+
+function setCard(){
+	var h = $('.mancard').height();
+	$('.mancard-hint').height(h);
+}
+function setbg(){
+	var dh = $(document).height();
+	var wh = $(window).height();
+	var bh = $('body').height();
+	// console.log("dh,wh,bh:"+dh+'/'+wh+'/'+bh);
+	// var bh = $('body').height(wh);
+	$('body').css('background-size','100% '+dh);
+}
+
+function swithPage(){
+	setMatch();
+	var group;
+	var groupid
+	var man;
+	var flag=1;
+	$('.girlType').on('click',function(){
+		groupid = $(this).attr('data-group');
+		// console.log('groupid:'+groupid);
+		group = manGroup.groups[parseInt(groupid-1)];
+		// console.log('group.arr:'+group.arr)
+		$('.p1').hide();
+		$('.p2').show();
+		for(var i=0; i<7;i++){
+			$('[data-man-index='+i+']').find('.card-back img').attr('src', manData.mans[group.arr[i]-1].img)
+		}
+		setCard();
+	});
+
+	$('.mancard').on('click',function(){
+		if(flag==0){
+			return false;
+		}
+		var manindex = $(this).attr('data-man-index');
+		// console.log('manindex:'+manindex);
+		var manid = group.arr[parseInt(manindex-1)] ;
+		// console.log('manid:'+manid);
+		man = manData.mans[parseInt(manid-1) ];
+		// console.log("man.intro+'/'+man.name:"+man.intro+'/'+man.name);
+		$('.man-img').attr('src',man.img);
+		$('.popup-pic img').attr('src',man.img);
+
+		$(this).find('.card-back img').attr('src',man.img);
+		$(this).addClass('flip');
+		flag=0;
+
+	  //  configWxshare(
+			// '选个猛男宠自己，就是任性!'
+			// ,'37女生节，'+ man.intro+ man.name +' 陪我看电影，duang~幸福指数'+match[groupid][manid] +'，约嘛？！'
+			// ,'http://huodong.baidu.com/nuomi37/'
+			// ,'http://dev.benbun.com/web/game/37mengnan/img/weixin.jpg'
+			// );
+	   // alert("before timer  OK?")
+
+		timer = setTimeout('clipeffect()', 800 );
+
+	});
+
+	$('.retry').on('click',function(){
+		$('.p3').hide();
+		$('.p2').show();
+		setCard();
+		flag=1;
+
+	 });
+}
+
+function clipeffect(){
+	$('.p2').fadeOut(500,function(){
+			$('.p3').fadeIn(500,function(){
+				$('.mancard').removeClass('flip');
+			});
+	});
+	clearTimeout(timer);
+}
+
+
+function setMatch(){
+	var i, j;
+
+	for(i=0;i<5;i++){
+		for(j=0;j<20;j++){
+			match[i][j]=parseInt(15*Math.random()+80)+'%';
+		}
+	}
+
+}
+
+function switchPopup(){
+	$('.p3-btn-share').click(function(){
+		$('.popup-share').show();
+		$('body').css({'overflow':'hidden'});
+	});
+	$('.man-img').click(function(){
+		$('.popup-pic').show();
+		$('.popup').css('opacity','1');
+		$('body').css({'overflow':'hidden'});
+	});
+	$('.popup').on('click',function(){
+		$('.popup').css('opacity','0.9').hide();
+		$('body').css({'overflow':'auto'});
+	});
+}
+function checkWeixin(){
+ var ua = navigator.userAgent.toLowerCase();
+    if(ua.match(/MicroMessenger/i)=="micromessenger") {
+        return true;
+    } else {
+
+    	$('.p1,p2,p3').hide();
+    	alert("请在微信中打开");
+        return false;
+    }
+}
+
+
+function jumpHeart(){
+	var $dom = $('<img src="img/p2_heart.png" alt="" class="card-heart dp-n">');
+	var num = parseInt(7*Math.random());
+	$('[data-man-index='+ num +']').append($dom);
+	$dom.fadeIn(300,function(){
+		$dom.fadeOut(400,function(){
+			$dom.remove();
+			jumpHeart();
+		})
+	});
+}
+
+
+</script>
+
+</body>
+</html>
